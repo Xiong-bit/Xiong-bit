@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🚀 Welcome to Xiong-bit Zone
+### 🚀 Welcome to 🐻Xiong-bit Zone
 
 Here is some personal information about me:
 
 - 🔭 I'm Chinese and currently working in Shanghai.
 - 📖 I'm currently learning && using React.js/Vue.js...
-- 🌱 Ask me about any question about my repos or directly give me a issue/pr~
 - 📫 How to reach me: 191272483@qq.com.
 - 💬 Wechat: Xecho777
 
