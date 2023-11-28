@@ -30,6 +30,6 @@ Here is some personal information about me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiong-bit)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=synthwave)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiong-bit)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiong-bit&layout=compact&theme=tokyonight)
